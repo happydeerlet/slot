@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="128" height="260">
+	<e:Rect id="area" width="100%" height="100%" horizontalCenter="0" verticalCenter="0" strokeAlpha="1"/>
+	<e:Scroller id="scroller_view" width="100%" horizontalCenter="0" bottom="0" x="0" y="230" scaleX="1" scaleY="1" height="658" mask="{area}">
+		<e:List id="list_view"/>
+	</e:Scroller>
+</e:Skin>

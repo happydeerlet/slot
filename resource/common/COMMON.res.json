@@ -1,0 +1,69 @@
+{
+	"groups": [
+		{
+			"keys": "aa_txt,button_png,5_png,4_png,3_png,2_png,1_png,bg_png",
+			"name": "COMMON"
+		},
+		{
+			"keys": "slot_stage_json,slot_json,slot_reward_json",
+			"name": "COMMON_CONFIG"
+		}
+	],
+	"resources": [
+		{
+			"url": "common/aa.txt",
+			"type": "text",
+			"name": "aa_txt"
+		},
+		{
+			"url": "common/static_config/slot.json",
+			"type": "json",
+			"name": "slot_json"
+		},
+		{
+			"url": "common/static_config/slot_reward.json",
+			"type": "json",
+			"name": "slot_reward_json"
+		},
+		{
+			"url": "common/static_config/slot_stage.json",
+			"type": "json",
+			"name": "slot_stage_json"
+		},
+		{
+			"url": "common/img/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "common/img/2.png",
+			"type": "image",
+			"name": "2_png"
+		},
+		{
+			"url": "common/img/3.png",
+			"type": "image",
+			"name": "3_png"
+		},
+		{
+			"url": "common/img/4.png",
+			"type": "image",
+			"name": "4_png"
+		},
+		{
+			"url": "common/img/5.png",
+			"type": "image",
+			"name": "5_png"
+		},
+		{
+			"url": "common/img/button.png",
+			"type": "image",
+			"name": "button_png"
+		},
+		{
+			"url": "common/img/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		}
+	]
+}

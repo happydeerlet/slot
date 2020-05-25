@@ -1,0 +1,17 @@
+{
+	"S0001":{
+		"base_reward":1000
+	},
+	"S0002":{
+		"base_reward":1100
+	},
+	"S0003":{
+		"base_reward":1200
+	},
+	"S0004":{
+		"base_reward":1300
+	},
+	"S0005":{
+		"base_reward":1400
+	}
+}
