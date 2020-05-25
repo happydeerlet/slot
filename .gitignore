@@ -1,0 +1,10 @@
+bin-debug
+bin-release
+scripts
+libs
+*.DS_Store
+exml.json
+manifest.json
+default.thm.json
+default.res.json
+DebugTmpArea.ts
